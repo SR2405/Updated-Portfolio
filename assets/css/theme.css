@@ -8351,7 +8351,7 @@ button.bg-darker:focus
     left: 0;
 
     width: 100%;
-    height: 100%;
+    height: 50%;
 
     border: 0;
 }
@@ -21921,7 +21921,7 @@ html:not([dir='rtl']) .noUi-horizontal .noUi-handle
 
 .video-responsive{
     overflow:hidden;
-    padding-bottom:56.25%;
+    padding-bottom:20%;
     position:relative;
     height:0;
    }
