@@ -582,7 +582,7 @@ h6,
 
     margin-bottom: .5rem;
 
-    color: #343a40;
+    color: #ffffff;
 }
 
 h1,
@@ -6116,6 +6116,12 @@ p.lead:hover{
 {
     border-top-right-radius: .2rem;
     border-bottom-right-radius: .2rem;
+}
+
+.site-title{
+    margin-top: 100px;
+margin-left: 200px;
+color: white;
 }
 
 .badge
@@ -13983,7 +13989,7 @@ button.bg-lighter:focus
     }
     .mt--200
     {
-        margin-top: -200px !important;
+        margin-top: -50px !important;
     }
     .mb--200
     {
